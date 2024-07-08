@@ -7,10 +7,11 @@ JSX
 Basic of Fetch API
 Free News API
 
-# Steps to Run the Application:
-# Step 1: 
-Type the following Command in terminal:
+
+# How to Run the Application:
+# Type the following Command in terminal:
 npm run start
+
 
 # Preview of final output:
 Let us have a look at how the final output will look like.
